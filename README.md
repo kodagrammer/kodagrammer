@@ -10,7 +10,7 @@
 <h4>✨ <strong>How to reach me</strong> ✨</h4>
 <div>
 <a href="mailto:dyko180801@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-ff4500"></a>
-<a href="https://docs.google.com/document/d/1GOK-i0hQ1kq3ia-oV6UNnRsQOy-JwEScx7NDcYGIgQo/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-1e90ff"></a>
+<a href="https://docs.google.com/document/d/1x_LhtZsNclhlf9FTaAaDoyWrhRCqxu8Diyn9J8F_2rU/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-1e90ff"></a>
 <a href="https://velog.io/@dyko" target="_blank"><img src="https://img.shields.io/badge/velog-3cb371"></a>
 </div>
 
