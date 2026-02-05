@@ -43,12 +43,12 @@ Web Services & Tools & IDEs
 ![linux](https://img.shields.io/badge/linux-fcc624.svg?style=flat&logo=linux&logoColor=black)
 ![windows_server](https://img.shields.io/badge/Windows_Server-4169e1.svg?style=flat&logo=windows&logoColor=white)
 ![AWS_EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+<br>
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) 
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
 ![BitBucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 Interested in
 
