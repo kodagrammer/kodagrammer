@@ -10,8 +10,9 @@
 <h4>✨ <strong>How to reach me</strong> ✨</h4>
 <div>
 <a href="mailto:dyko180801@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-ff4500"></a>
-<a href="https://docs.google.com/document/d/1x_LhtZsNclhlf9FTaAaDoyWrhRCqxu8Diyn9J8F_2rU/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-1e90ff"></a>
-<a href="https://kodagrammer.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/portfolio-3cb371"></a>
+<a href="https://docs.google.com/document/d/1139w8zfcJHclHMsAvmdlfFQ_1jKAkQcf5tf7-_6eyec/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-1e90ff"></a>
+<a href="https://canva.link/ds0rvmr9cby1h6k" target="_blank"><img src="https://img.shields.io/badge/portfolio(pdf)-3cb371"></a>
+<a href="https://kodagrammer.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/portfolio(web)-3cb371"></a>
 </div>
 
 <br>
